@@ -13,3 +13,5 @@ Open 'cmd', or 'powershell', then use the above command ^ to install the require
 py botcls.py
 ```
 then it should work with ya, note that it might have some bugs, dont expect that much from beginner programmer, but i scraped like 40k Invites with it
+
+its open source, means u can use it, not steal it >:
