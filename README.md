@@ -15,10 +15,3 @@ py botcls.py
 then it should work with ya, note that it might have some bugs, dont expect that much from beginner programmer, but i scraped like 70k Invites with it
 
 its open source, means u can use it, not steal it >:
-
-## Change Log
-### v1.3
-CloudFlare Bypass
-
-### v1.2
-First Version
