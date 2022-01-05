@@ -20,5 +20,5 @@ its open source, means u can use it, not steal it >:
 ### v1.3
 CloudFlare Bypass
 
-###v1.2
+### v1.2
 First Version
