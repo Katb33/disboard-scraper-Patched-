@@ -17,9 +17,8 @@ then it should work with ya, note that it might have some bugs, dont expect that
 its open source, means u can use it, not steal it >:
 
 ## Change Log
-### test
+### v1.3
+CloudFlare Bypass
 
-
-
-v1.2
+###v1.2
 First Version
